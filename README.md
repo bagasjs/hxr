@@ -12,8 +12,8 @@ r6
 r7
 
 ### Instruction
-OOOOAAABBB######
-OOOOAAA#IIIIIIII
+OOOOOAAABBB#####
+OOOOOAAAIIIIIIII
 - O -> opcode
 - A -> Register A
 - B -> Register B
